@@ -1,12 +1,12 @@
-#testthewest
+##testthewest
 
-##Einleitung
+###Einleitung
 
 Wozu dieses Repository?
 Ich verfolge eigentlich kein bestimmtes Ziel mit diesem repository, ausser mit meinen `Lieblingsspielzeugen` in der digitalen Welt 
 * [bash](https://www.gnu.org/software/bash/manual/bash.html)
 * [awk](https://www.gnu.org/software/gawk/manual/gawk.html)
-* [C] (https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+* [C](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 
 Ich behaupte mal, ich bin so gar kein Experte für diese drei Tools, aber das ist auch egal.
 Ich benutze sie gerne. 
