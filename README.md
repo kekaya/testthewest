@@ -1,6 +1,8 @@
-##testthewest
+testthewest
+===========
 
-###Einleitung
+Einleitung
+----------
 
 Wozu dieses Repository?
 Ich verfolge eigentlich kein bestimmtes Ziel mit diesem repository, ausser mit meinen `Lieblingsspielzeugen` in der digitalen Welt 
@@ -23,7 +25,8 @@ Das war's erstmal. Bis auf weiteres
 Wir werden alle irgendwie auch alles dokumentieren wollen/müssen und dafür habe ich jetzt eine neue Lieblingsmethode für mich entdeckt (mit der ich das hier auch schreibe) [Markdown](https://www.markdownguide.org/getting-started/). 
 Ursprünglich habe ich [plain HTML](https://htmlreference.io/) oder auch [LaTeX](https://texdoc.org/serve/latex2e.pdf/0) gern gemocht. Aber kann sich auch immer wieder ändern. Mal sehen
 
-###Was ich hiermit beabsichtige
+Was ich hiermit beabsichtige
+----------------------------
 
 Ehrlich gesagt: Keine Ahnung. Das hier soll ein öffentliches Notizbuch werden für eigentlich komplett banale Dinge.
 Dazu eine kleine Anekdote über Erwartungen
@@ -37,11 +40,16 @@ Ich: "Naja, ganz einfach: Sehe ich meine Erwartungen erfüllt, höre ich auf, ob
 
 Der Kollege hatte mit der Verdauung dieses Gesprächs eine Weile zu tun ;-)
 
-## Wie geht's weiter
+Wie geht's weiter
+=================
 
-### Paranoia
+Paranoia
+--------
+
 Hier kommt etwas über "konstruktive Paranoia" rein
 
-### Ambiguität 
+Ambiguität
+----------
+
 ...ist etwas, das ich im technischen Umfeld nicht, aber auch **gar nicht** akzeptiere.
 Mehr dazu bald (an der Stelle kommt auch die Definition von "Bald" mit rein)
