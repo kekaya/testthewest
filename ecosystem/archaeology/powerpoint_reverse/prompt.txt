@@ -1,0 +1,16 @@
+Ich benötige ein Windows bat File mit Python Backend , das mir erlaubt einen Power Point (pptx) integrity Check zu machen und als Output ein HTML File generiert mit einer table row per Slide , eine Zelle mit dem Bild der Slide, die nächste Zelle mit dem Text. 
+In der Kopfzeile der Tabelle bitte die Namen der Powerpoint files eingeben und den user über Eingabeaufforderung auffordern die Nummer des ersten Powerpoints anzugeben.
+
+Sollten zwei Powerpoints auf das Bat File gedrag-and-dropped werden , bitte in die dritte Zelle das Bild der zweiten Slide und in die vierte Zelle den Text der Slide
+
+Im diff Fall bitte eine fünfte Zelle mit dem Text Delta.
+
+Sollte im directory eine Datei
+
+powerpoint.conf sein bitte einlesen und die slides mit den Slide numbers vergleichen.
+
+Format
+
+<Slide Nr PPT 1> <Slide Nr PPT 2>
+
+Im Falle des Vorhandenseins der Datei powerpoint.conf bitte nur die angegebenen slides vergleichen 
